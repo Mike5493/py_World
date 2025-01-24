@@ -1,3 +1,11 @@
+#==============================================
+#   * Voxel Style open world game in Python
+#   using PyOpenGL and numpy.
+#==============================================
+#   * Author: Mikey
+#   * Date: 1/24/2025
+#==============================================
+
 import glfw
 from OpenGL.GL import *
 from OpenGL.GLU import *
